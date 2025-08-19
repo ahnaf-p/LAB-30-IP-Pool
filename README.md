@@ -21,3 +21,6 @@ Selasa 19 Agustus 2025
        
 # Kesimpulan
   Untuk memberi batasan kepada router mengenai range IP Address yang boleh di berikan untuk client pada suatu jaringan, baik untuk client local atau yang lainya.  
+
+# Sumber
+Mikrotik - https://help.mikrotik.com/docs/spaces/ROS/pages/129531938/IP+Pools
