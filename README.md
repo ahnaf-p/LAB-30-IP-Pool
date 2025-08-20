@@ -14,9 +14,9 @@ Selasa 19 Agustus 2025
 ![](IMAGES/sesuai.PNG)  
   5. Sekarang parameter **Next pool**, next pool ini digunakan jika pool1 sudah penuh, maka pool ip akan ke pool yang dipilih. Contohnya seperti kita membuat **pool1** rangenya *10.10.10.11-10.10.10.20* dan pool 2 *10.10.10.21-10.10.10.50*, jika DHCP server mengunakan pool1 dan pool1 sudah terisi/digunakan semua, maka client ke-11 akan mendapat range IP dari **pool2**.  
   6. Pertama kita buat pool lagi untuk next poolnya.  
-![](IMAGES/selanjutnya.PNG)  
+![](IMAGES/Capture.PNG)  
   7. Setelah itu kita masuk ke pool sebelumnya yang sudah dibuat **pool1** lalu masukan **pool2** di **next pool**.  
-  ![](IMAGES/print.PNG)   
+  ![](IMAGES/Capturee.PNG)   
   8. Dan sekarang jika range di pool1 sudah habis, maka client akan diberi IP dari pool2.
        
 # Kesimpulan
